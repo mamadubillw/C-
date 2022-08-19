@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\C#\\convTipos\\convTipos.csproj": {}
+    "C:\\Users\\HP\\Documents\\C#\\Struct\\convTipos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\C#\\convTipos\\convTipos.csproj": {
+    "C:\\Users\\HP\\Documents\\C#\\Struct\\convTipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\C#\\convTipos\\convTipos.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\C#\\Struct\\convTipos.csproj",
         "projectName": "convTipos",
-        "projectPath": "C:\\Users\\HP\\Documents\\C#\\convTipos\\convTipos.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\C#\\Struct\\convTipos.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\C#\\convTipos\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\C#\\Struct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
